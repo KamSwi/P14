@@ -1,0 +1,6 @@
+C:\Users\local\Desktop\Radosław Klimowicz 138441\141163\bin\Debug\141163.exe.config
+C:\Users\local\Desktop\Radosław Klimowicz 138441\141163\bin\Debug\141163.exe
+C:\Users\local\Desktop\Radosław Klimowicz 138441\141163\bin\Debug\141163.pdb
+C:\Users\local\Desktop\Radosław Klimowicz 138441\141163\obj\Debug\141163.csprojResolveAssemblyReference.cache
+C:\Users\local\Desktop\Radosław Klimowicz 138441\141163\obj\Debug\141163.exe
+C:\Users\local\Desktop\Radosław Klimowicz 138441\141163\obj\Debug\141163.pdb
